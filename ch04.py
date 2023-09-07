@@ -80,7 +80,7 @@ print(r)
 
 def hello(name,firstName):
 
-    print("Bonjour "+name+" "+firstName)
+    print("Hello "+name+" "+firstName)
 
 
 hello("GAURAT","Fred")
